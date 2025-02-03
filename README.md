@@ -1,27 +1,25 @@
 # SugarcaneDisease_DeepL
 
-Sugarcane Disease Classification using Deep Learning
-
 This project utilizes deep learning techniques to classify and analyze sugarcane diseases based on a dataset of affected and healthy sugarcane images. The model is trained to identify different disease types and help in early detection and management.
 
--Features-
+#Features
 
-Dataset preprocessing and augmentation
+-Dataset preprocessing and augmentation
 
-Deep learning model for disease classification
+-Deep learning model for disease classification
 
-Performance evaluation using accuracy and loss metrics
+-Performance evaluation using accuracy and loss metrics
 
-Visualization of results with graphs and sample predictions
+-Visualization of results with graphs and sample predictions
 
-Technologies Used
+#Technologies Used
 
-Python
+-Python
 
-TensorFlow / PyTorch
+-TensorFlow / PyTorch
 
-OpenCV (for image processing)
+-OpenCV (for image processing)
 
-NumPy, Pandas, Matplotlib
+-NumPy, Pandas, Matplotlib
 
-Jupyter Notebook
+-Jupyter Notebook
